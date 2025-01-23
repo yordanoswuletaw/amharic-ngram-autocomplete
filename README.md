@@ -5,7 +5,7 @@ This project implements an N-Gram language model for the Amharic language, desig
 ## Features
 
 - **N-Gram Based Predictions**: Supports unigram, bigram, trigram and n-gram models to generate context-aware suggestions.
-- **Amharic Language Support**: Handles the unique structure and highly morphological nature of Amharic text.
+- **Amharic Language Support**: Handles the structure and highly morphological nature of Amharic text.
 - **Tokenization**: Includes an Amharic-specific tokenizer to handle words and punctuation correctly.
 - **Smoothing Techniques**: Implements smoothing methods (e.g., Laplace smoothing) to address the issue of zero probabilities.
 - **Scalable Design**: Can be trained on large datasets for improved accuracy.
@@ -24,31 +24,6 @@ This project implements an N-Gram language model for the Amharic language, desig
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-### Training the Model
-
-1. Prepare your Amharic text corpus and place it in the `data/` directory.
-2. Run the training script:
-   ```bash
-   python train.py --corpus data/corpus.txt --ngram_size 3
-   ```
-   Replace `--ngram_size` with `1`, `2`, or `3` to specify the N-Gram size.
-
-### Using the Auto-Complete
-
-1. Start the auto-complete interface:
-   ```bash
-   python autocomplete.py
-   ```
-2. Type an input phrase in Amharic, and the model will suggest the most likely completions.
-
-Example:
-```text
-Input: አበበ በሶ
-Suggestions: በላ
-```
 
 ---
 
@@ -84,8 +59,8 @@ Suggestions: በላ
 ## Examples
 
 ```text
-Input: ከልላዕ
-Suggestions: ከልላገ ከልላም ከልላስ
+Input: አበበ በሶ
+Suggestions: በላ
 ```
 
 ## Future Work
