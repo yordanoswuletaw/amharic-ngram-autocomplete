@@ -49,8 +49,6 @@ This project implements an N-Gram language model for the Amharic language, desig
     └── README.md                # Documentation for scripts
 ```
 
----
-
 ## Requirements
 
 - Python 3.8+
@@ -82,5 +80,4 @@ Special thanks to:
 - The Amharic NLP community for providing open-source datasets.
 - Researchers and contributors to N-Gram language modeling techniques.
 
----
 # amharic-ngram-autocomplete
