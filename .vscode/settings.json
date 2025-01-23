@@ -1,0 +1,88 @@
+{
+  "workbench.preferredLightColorTheme": "Vitesse Light",
+  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+  "editor.fontFamily": "Input Mono,Jetbrains Mono, Fira Code, Consolas, 'Courier New', monospace",
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.linkedEditing": true,
+  // "editor.wordWrap": "bounded",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "dart.openDevTools": "flutter",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "thunder-client.codeSnippetLanguage": "cs-httpclient",
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "[jsonc]": {
+    "editor.formatOnPaste": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.fontLigatures": true,
+  "thunder-client.htmlView": "Raw Html",
+  "[html]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.format.enable": true,
+  "redhat.telemetry.enabled": true,
+  "editor.codeLensFontFamily": "Input Mono, Jetbrains Mono, Fira Code",
+  "files.autoSave": "afterDelay",
+  "i18n-ally.displayLanguage": "en",
+  "git.confirmSync": false,
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "switch:command"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnType": true
+  },
+  "workbench.colorTheme": "Vitesse Dark Soft",
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": null,
+      "savePathReplacementPairs": null
+    }
+  ],
+  "window.menuBarVisibility": "toggle",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "vetur.format.options.useTabs": true,
+  "editor.fontSize": 13.3,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "workbench.editorAssociations": {
+    "*.json": "default"
+  },
+  "editor.accessibilitySupport": "off",
+  "workbench.iconTheme": "eq-material-theme-icons-darker"
+}
