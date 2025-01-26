@@ -79,6 +79,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Special thanks to:
 - The Amharic NLP community for providing open-source datasets.
-- Researchers and contributors to N-Gram language modeling techniques.
 
 # amharic-ngram-autocomplete
