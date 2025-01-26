@@ -38,6 +38,7 @@ This project implements an N-Gram language model for the Amharic language, desig
 ├── .gitignore                   # Ignored files and folders
 ├── requirements.txt             # Dependencies for the project
 ├── README.md                    # Documentation of the repository
+├── data/                        # Dataset for training, dev and testing
 ├── src/                         # Source code for analysis and processing
 ├── notebooks/
 │   ├── __init__.py              # Package initialization
