@@ -1,0 +1,7 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+data/test_.txt filter=lfs diff=lfs merge=lfs -text
+data/train_.txt filter=lfs diff=lfs merge=lfs -text
+data/dev_.txt filter=lfs diff=lfs merge=lfs -text
+data/dev.txt filter=lfs diff=lfs merge=lfs -text
+data/train.txt filter=lfs diff=lfs merge=lfs -text
+data/test.txt filter=lfs diff=lfs merge=lfs -text
