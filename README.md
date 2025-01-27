@@ -25,7 +25,9 @@ This project implements an N-Gram language model for the Amharic language, desig
    pip install -r requirements.txt
    ```
 
----
+## Notebooks
+
+1. [**Amharic Auto Complete**](https://github.com/yordanoswuletaw/amharic-ngram-autocomplete/blob/main/notebooks/amh-atuo-complete.ipynb)
 
 ## Repository Structure
 
