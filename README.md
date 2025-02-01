@@ -1,6 +1,6 @@
 # Amharic N-Gram Language Model for Auto-Complete
 
-This project implements an N-Gram language model for the Amharic language, designed to provide auto-complete functionality. The model uses a simple N-Gram propabilistic model to predict and suggest the most probable next words based on input sequences.
+This project implements an N-Gram language model for the Amharic language using only Python and NumPy, designed to provide auto-completion functionality. The model employs a simple N-Gram probabilistic approach to predict and suggest the most probable next words based on input sequences.
 
 ## Features
 
